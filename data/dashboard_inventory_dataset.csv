@@ -1,0 +1,19 @@
+item_id,organization_id,branch_id,quantity_on_hand,quantity_committed,quantity_available,quantity_incoming,reorder_level,stock_value,last_movement_date,entity_name,branch_name,emirate,item_name,sku,brand_id,unit,is_inventory,brand_name,below_reorder_level
+IT-457-001,719219457,BR-DXB,480,26,454,10,120,58793.42,45994,Lapiz Blue DXB/SHJ,Dubai,Dubai,Tile Adhesive Premium,SKU-LP-ADH-P,B001,bag,True,Mapei,0
+IT-457-001,719219457,BR-SHJ,219,6,213,209,120,12448.23,46099,Lapiz Blue DXB/SHJ,Sharjah,Sharjah,Tile Adhesive Premium,SKU-LP-ADH-P,B001,bag,True,Mapei,0
+IT-457-002,719219457,BR-DXB,274,29,245,292,80,15981.64,45982,Lapiz Blue DXB/SHJ,Dubai,Dubai,Grout Flex 5KG,SKU-LP-GRT-F,B002,box,True,Kerakoll,0
+IT-457-002,719219457,BR-SHJ,190,9,181,256,80,32327.03,46166,Lapiz Blue DXB/SHJ,Sharjah,Sharjah,Grout Flex 5KG,SKU-LP-GRT-F,B002,box,True,Kerakoll,0
+IT-457-003,719219457,BR-DXB,486,29,457,9,40,41628.97,46155,Lapiz Blue DXB/SHJ,Dubai,Dubai,Trowel Set Pro,SKU-LP-TRL-P,B004,piece,True,Lapiz Tools,0
+IT-457-003,719219457,BR-SHJ,123,13,110,208,40,7530.08,46172,Lapiz Blue DXB/SHJ,Sharjah,Sharjah,Trowel Set Pro,SKU-LP-TRL-P,B004,piece,True,Lapiz Tools,0
+IT-457-004,719219457,BR-DXB,359,49,310,128,35,44156.3,46158,Lapiz Blue DXB/SHJ,Dubai,Dubai,Waterproof Membrane,SKU-LP-WP-M,,roll,True,Unassigned,0
+IT-457-004,719219457,BR-SHJ,383,37,346,100,35,68758.8,46024,Lapiz Blue DXB/SHJ,Sharjah,Sharjah,Waterproof Membrane,SKU-LP-WP-M,,roll,True,Unassigned,0
+IT-515-001,791250515,BR-AD,229,66,163,225,120,16619.43,46122,Lapiz Blue Abu Dhabi,Abu Dhabi,Abu Dhabi,Tile Adhesive Premium,SKU-LP-ADH-P,B001,bag,True,Mapei,0
+IT-515-002,791250515,BR-AD,7,6,1,79,80,1160.47,46049,Lapiz Blue Abu Dhabi,Abu Dhabi,Abu Dhabi,Grout Flex 5KG,SKU-LP-GRT-F,B002,box,True,Kerakoll,1
+IT-515-003,791250515,BR-AD,80,68,12,127,40,14355.5,46083,Lapiz Blue Abu Dhabi,Abu Dhabi,Abu Dhabi,Trowel Set Pro,SKU-LP-TRL-P,B004,piece,True,Lapiz Tools,1
+IT-515-004,791250515,BR-AD,344,60,284,20,35,61810.1,45962,Lapiz Blue Abu Dhabi,Abu Dhabi,Abu Dhabi,Waterproof Membrane,SKU-LP-WP-M,,roll,True,Unassigned,0
+IT-347-001,903438347,BR-GCB,17,17,0,13,20,2715.04,46145,Global Classic (GCB),Head Office,Dubai,Carrara Marble Slab,SKU-GCB-CAR,B005,sqm,True,Marble Select,1
+IT-347-002,903438347,BR-GCB,252,37,215,225,25,6588.92,45989,Global Classic (GCB),Head Office,Dubai,Travertine Stone,SKU-GCB-TRV,B005,sqm,True,Marble Select,0
+IT-347-003,903438347,BR-GCB,192,75,117,30,15,20359.38,46065,Global Classic (GCB),Head Office,Dubai,Granite Countertop,SKU-GCB-GRN,,sqm,True,Unassigned,0
+IT-662-001,855049662,BR-60N,0,0,0,0,0,0.0,45946,60 Newton,Head Office,Dubai,Fire Alarm Service,SKU-60N-FAS,B006,service,False,Newton Technical,0
+IT-662-002,855049662,BR-60N,0,0,0,0,0,0.0,46092,60 Newton,Head Office,Dubai,HVAC Maintenance,SKU-60N-HVAC,B006,service,False,Newton Technical,0
+IT-662-003,855049662,BR-60N,0,0,0,0,0,0.0,46060,60 Newton,Head Office,Dubai,Electrical Panel Upgrade,SKU-60N-ELEC,,service,False,Unassigned,0
